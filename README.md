@@ -38,9 +38,9 @@ Repositori ini berisi kode sumber dan dokumentasi untuk pengembangan modul pemba
 | **Keamanan** | Kemampuan menahan akses tidak sah (Security Test) |
 
 ## 👥 Tim Pengembang (Kelompok 16)
-* [cite_start]**Mutiara Enjelina** (11422008) [cite: 9]
-* [cite_start]**Nehemia Sitorus** (11422028) [cite: 10]
-* [cite_start]**Efran Rabdo Oktavianus Lumbantoruan** (11422030) [cite: 12]
+* **Mutiara Enjelina** (11422008) 
+* **Nehemia Sitorus** (11422028)
+* **Efran Rabdo Oktavianus Lumbantoruan** (11422030)
 
 ---
-[cite_start]© 2025 Program Studi Teknologi Rekayasa Perangkat Lunak - Institut Teknologi Del [cite: 16, 17]
+© 2025 Program Studi Teknologi Rekayasa Perangkat Lunak - Institut Teknologi Del
